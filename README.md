@@ -1,5 +1,5 @@
 # lib_savelogs
-[Minetest Mod] Registers server events (on and off), too player events (join and leave), and events of other mods in ````log_[date] .txt```` files in the map folder.
+[Minetest Mod] Registers server events (on and off), too player events (join and leave), and events of other mods in ````log_[date].txt```` files in the map folder.
 
 ## Depends:
  * No have any depends.
